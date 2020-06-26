@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SEGDirectoryManager_Example' do
+  pod 'SEGDirectoryManager', :path => '../'
+
+  target 'SEGDirectoryManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

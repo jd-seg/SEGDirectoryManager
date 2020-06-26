@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2B58E410DC5C12A3CCB9C07F /* SEGDirectoryManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SEGDirectoryManager.podspec; path = ../SEGDirectoryManager.podspec; sourceTree = "<group>"; };
-		2CCA7DDB6CD5F093076C0DD7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		32A1AF31773030399BF4E73A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		2B58E410DC5C12A3CCB9C07F /* SEGDirectoryManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SEGDirectoryManager.podspec; path = ../SEGDirectoryManager.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2CCA7DDB6CD5F093076C0DD7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		32A1AF31773030399BF4E73A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		3C135AD7A53991D0E7E3ACAC /* Pods_SEGDirectoryManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SEGDirectoryManager_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5553F6B183A1D4E9DE86FE0D /* Pods-SEGDirectoryManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SEGDirectoryManager_Example.debug.xcconfig"; path = "Target Support Files/Pods-SEGDirectoryManager_Example/Pods-SEGDirectoryManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* SEGDirectoryManager_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SEGDirectoryManager_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -147,7 +147,6 @@
 				E9ACA32E118B18730A28A28B /* Pods-SEGDirectoryManager_Tests.debug.xcconfig */,
 				FD078D2C0576AFD833D7BCED /* Pods-SEGDirectoryManager_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

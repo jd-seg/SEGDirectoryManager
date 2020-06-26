@@ -1,0 +1,16 @@
+PODS:
+  - SEGDirectoryManager (0.1.0)
+
+DEPENDENCIES:
+  - SEGDirectoryManager (from `../`)
+
+EXTERNAL SOURCES:
+  SEGDirectoryManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SEGDirectoryManager: 63fc34551b0399a271f54727fd3786d219a820a4
+
+PODFILE CHECKSUM: 0ea80c0e0688d0e6deb036250da21f5e53c91207
+
+COCOAPODS: 1.9.3

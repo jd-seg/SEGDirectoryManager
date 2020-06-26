@@ -1,0 +1,6 @@
+framework module Pods_SEGDirectoryManager_Tests {
+  umbrella header "Pods-SEGDirectoryManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

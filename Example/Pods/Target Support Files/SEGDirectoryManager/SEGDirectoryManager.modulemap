@@ -1,0 +1,6 @@
+framework module SEGDirectoryManager {
+  umbrella header "SEGDirectoryManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

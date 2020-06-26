@@ -1,0 +1,22 @@
+{
+  "name": "SEGDirectoryManager",
+  "version": "0.1.0",
+  "summary": "A short description of SEGDirectoryManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jd-seg/SEGDirectoryManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jd-seg": "jayesh.chaudhari@simplyentertaining.us"
+  },
+  "source": {
+    "git": "https://github.com/jd-seg/SEGDirectoryManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SEGDirectoryManager/Classes/**/*"
+}
